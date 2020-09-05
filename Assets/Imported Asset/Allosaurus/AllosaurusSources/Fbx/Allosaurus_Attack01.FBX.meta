@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 4ccf0a340b0b8f04e9737a2b5fc2bd43
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: allosaurus
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Bone01
+  - first:
+      1: 100006
+    second: Bone02
+  - first:
+      1: 100008
+    second: Bone03
+  - first:
+      1: 100010
+    second: Bone04
+  - first:
+      1: 100012
+    second: Bone05
+  - first:
+      1: 100014
+    second: Bone06
+  - first:
+      1: 100016
+    second: Bone07
+  - first:
+      1: 100018
+    second: Bone08
+  - first:
+      1: 100020
+    second: Bone09
+  - first:
+      1: 100022
+    second: Bone10
+  - first:
+      1: 100024
+    second: Bone11
+  - first:
+      1: 100026
+    second: Bone12
+  - first:
+      1: 100028
+    second: Bone13
+  - first:
+      1: 100030
+    second: Bone14
+  - first:
+      1: 100032
+    second: Bone15
+  - first:
+      1: 100034
+    second: Bone16
+  - first:
+      1: 100036
+    second: Bone17
+  - first:
+      1: 100038
+    second: Bone18
+  - first:
+      1: 100040
+    second: Bone19
+  - first:
+      1: 100042
+    second: Bone20
+  - first:
+      1: 100044
+    second: Bone21
+  - first:
+      1: 100046
+    second: Bone22
+  - first:
+      1: 100048
+    second: Bone23
+  - first:
+      1: 100050
+    second: Bone24
+  - first:
+      1: 100052
+    second: Bone25
+  - first:
+      1: 100054
+    second: Bone26
+  - first:
+      1: 100056
+    second: Bone27
+  - first:
+      1: 100058
+    second: Bone28
+  - first:
+      1: 100060
+    second: Bone29
+  - first:
+      1: 100062
+    second: Bone30
+  - first:
+      1: 100064
+    second: Bone31
+  - first:
+      1: 100066
+    second: Bone32
+  - first:
+      1: 100068
+    second: Bone33
+  - first:
+      1: 100070
+    second: Bone34
+  - first:
+      1: 100072
+    second: Bone35
+  - first:
+      1: 100074
+    second: Bone36
+  - first:
+      1: 100076
+    second: Bone37
+  - first:
+      1: 100078
+    second: Bone38
+  - first:
+      1: 100080
+    second: IK Chain05
+  - first:
+      1: 100082
+    second: IK Chain06
+  - first:
+      1: 100084
+    second: IK Chain07
+  - first:
+      1: 100086
+    second: IK Chain08
+  - first:
+      4: 400000
+    second: allosaurus
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Bone01
+  - first:
+      4: 400006
+    second: Bone02
+  - first:
+      4: 400008
+    second: Bone03
+  - first:
+      4: 400010
+    second: Bone04
+  - first:
+      4: 400012
+    second: Bone05
+  - first:
+      4: 400014
+    second: Bone06
+  - first:
+      4: 400016
+    second: Bone07
+  - first:
+      4: 400018
+    second: Bone08
+  - first:
+      4: 400020
+    second: Bone09
+  - first:
+      4: 400022
+    second: Bone10
+  - first:
+      4: 400024
+    second: Bone11
+  - first:
+      4: 400026
+    second: Bone12
+  - first:
+      4: 400028
+    second: Bone13
+  - first:
+      4: 400030
+    second: Bone14
+  - first:
+      4: 400032
+    second: Bone15
+  - first:
+      4: 400034
+    second: Bone16
+  - first:
+      4: 400036
+    second: Bone17
+  - first:
+      4: 400038
+    second: Bone18
+  - first:
+      4: 400040
+    second: Bone19
+  - first:
+      4: 400042
+    second: Bone20
+  - first:
+      4: 400044
+    second: Bone21
+  - first:
+      4: 400046
+    second: Bone22
+  - first:
+      4: 400048
+    second: Bone23
+  - first:
+      4: 400050
+    second: Bone24
+  - first:
+      4: 400052
+    second: Bone25
+  - first:
+      4: 400054
+    second: Bone26
+  - first:
+      4: 400056
+    second: Bone27
+  - first:
+      4: 400058
+    second: Bone28
+  - first:
+      4: 400060
+    second: Bone29
+  - first:
+      4: 400062
+    second: Bone30
+  - first:
+      4: 400064
+    second: Bone31
+  - first:
+      4: 400066
+    second: Bone32
+  - first:
+      4: 400068
+    second: Bone33
+  - first:
+      4: 400070
+    second: Bone34
+  - first:
+      4: 400072
+    second: Bone35
+  - first:
+      4: 400074
+    second: Bone36
+  - first:
+      4: 400076
+    second: Bone37
+  - first:
+      4: 400078
+    second: Bone38
+  - first:
+      4: 400080
+    second: IK Chain05
+  - first:
+      4: 400082
+    second: IK Chain06
+  - first:
+      4: 400084
+    second: IK Chain07
+  - first:
+      4: 400086
+    second: IK Chain08
+  - first:
+      43: 4300000
+    second: allosaurus
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: allosaurus
+  - first:
+      137: 13700002
+    second: Bone01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 5dee8e53d4c9f224eadcdcfea1334a1d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Allosaurus_Attack01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: allosaurus
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain05
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: 0.27058354, y: 0.073861316, z: 0.5113711}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain06
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: -0.27006972, y: 0.081352845, z: 0.88499653}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain07
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: 0.17159776, y: 1.2931362, z: -0.7388432}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain08
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: -0.1629152, y: 1.3590944, z: -0.790269}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone01
+      parentName: Allosaurus_Attack01(Clone)
+      position: {x: -0.098940946, y: 1.9004067, z: 0.09068924}
+      rotation: {x: -0.2980985, y: 0.34434888, z: 0.5979555, w: -0.65955323}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bone38
+      parentName: Bone01
+      position: {x: -0.43355373, y: -0.00000015258789, z: 0}
+      rotation: {x: -0.0031587475, y: -0.020146737, z: 0.050417293, w: 0.99852}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Bone02
+      parentName: Bone38
+      position: {x: -0.43257713, y: -0.00000030517577, z: -0.000000007152557}
+      rotation: {x: 0.000261155, y: -0.0009204729, z: 0.06638428, w: 0.9977937}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Bone03
+      parentName: Bone02
+      position: {x: -0.34247628, y: -0.0000002162159, z: -0.0000012342344}
+      rotation: {x: -0.04338168, y: 0.4054978, z: 0.3580552, w: 0.8399322}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1}
+    - name: Bone34
+      parentName: Bone03
+      position: {x: -0.2320039, y: 0.000000040903668, z: -8.760285e-13}
+      rotation: {x: -0.014540574, y: 0.08933404, z: 0.09824685, w: 0.9910376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone04
+      parentName: Bone34
+      position: {x: -0.24287839, y: -0.0000005265704, z: 0.000000028370058}
+      rotation: {x: 0.010893262, y: 0.02758801, z: -0.046625327, w: 0.99847203}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Bone30
+      parentName: Bone04
+      position: {x: -0.26854396, y: -0.0000002487, z: 1.3101468e-11}
+      rotation: {x: -0.020401094, y: -0.0053628623, z: 0.13868105, w: 0.9901124}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Bone06
+      parentName: Bone30
+      position: {x: 0.05507934, y: 0.06956167, z: 0.0029445624}
+      rotation: {x: 0.018564196, y: 0.0059010778, z: -0.18047689, w: 0.98338634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone07
+      parentName: Bone06
+      position: {x: -0.74462587, y: -0.0000021362325, z: 0.00007041371}
+      rotation: {x: -0.0000068956174, y: -0.00008714077, z: 0.024861157, w: 0.9996909}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone05
+      parentName: Bone30
+      position: {x: -0.34907866, y: 0.0000047969806, z: -0.00010666546}
+      rotation: {x: 0.0006031965, y: -0.0078915255, z: 0.19046001, w: 0.98166305}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone16
+      parentName: Bone02
+      position: {x: -0.2934516, y: 0.13549805, z: 0.21397565}
+      rotation: {x: -0.00096728845, y: 0.012208961, z: 0.91461945, w: -0.40413028}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1}
+    - name: Bone17
+      parentName: Bone16
+      position: {x: -0.37090987, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: 0.036405288, y: -0.016779304, z: 0.6756374, w: 0.7361435}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone18
+      parentName: Bone17
+      position: {x: -0.41689712, y: 0.00000015258789, z: 0}
+      rotation: {x: 0.024281027, y: 0.010572395, z: -0.3031496, w: 0.9525749}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Bone35
+      parentName: Bone18
+      position: {x: -0.15439019, y: -0.00000006407471, z: -9.0715147e-10}
+      rotation: {x: 0.010368485, y: 0.018986607, z: 0.09737819, w: 0.99501234}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone19
+      parentName: Bone35
+      position: {x: -0.2240455, y: 0.00000020488795, z: 0.00000000511777}
+      rotation: {x: 0.021876812, y: -0.00044634214, z: 0.016350571, w: 0.9996269}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Bone26
+      parentName: Bone02
+      position: {x: -0.29339805, y: 0.13545227, z: -0.21804185}
+      rotation: {x: 0.30429396, y: 0.13234381, z: 0.80281204, w: -0.49536175}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Bone27
+      parentName: Bone26
+      position: {x: -0.37044418, y: -0.00000015258789, z: -0.000000057220458}
+      rotation: {x: 0.080392584, y: -0.14090699, z: 0.05050504, w: 0.9854601}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone28
+      parentName: Bone27
+      position: {x: -0.41836154, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.028447764, y: -0.0023834396, z: -0.033512868, w: 0.9990305}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bone36
+      parentName: Bone28
+      position: {x: -0.15291014, y: 0.00000002205365, z: -0.000000047399816}
+      rotation: {x: -0.008760928, y: -0.021211477, z: 0.081629686, w: 0.99639845}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Bone29
+      parentName: Bone36
+      position: {x: -0.22398615, y: 0.0000002371445, z: -0.000000015982199}
+      rotation: {x: -0.023502355, y: -0.0004133406, z: 0.010676328, w: 0.9996667}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Bone08
+      parentName: Bone01
+      position: {x: 0.26434416, y: -0.0056031058, z: 0.000008728049}
+      rotation: {x: 0.0014235844, y: -0.0012582479, z: 0.99839604, w: 0.056584496}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Bone32
+      parentName: Bone08
+      position: {x: -0.53525144, y: 0.00000012420118, z: 2.0770687e-11}
+      rotation: {x: -0.0050417436, y: -0.00061563513, z: 0.024560185, w: 0.99968547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone09
+      parentName: Bone32
+      position: {x: -0.40478596, y: 0.00000012002901, z: -0.00000012868887}
+      rotation: {x: -0.0089393435, y: -0.0009944275, z: 0.048387144, w: 0.9987882}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone31
+      parentName: Bone09
+      position: {x: -0.51464677, y: 0.00000036835687, z: 1.8680172e-13}
+      rotation: {x: -0.002605655, y: -0.00023237034, z: 0.045133535, w: 0.99897754}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Bone10
+      parentName: Bone31
+      position: {x: -0.4573506, y: 0.000000117123115, z: 0.000000024789735}
+      rotation: {x: -0.14095098, y: 0.02445184, z: -0.045165587, w: 0.9886835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone33
+      parentName: Bone10
+      position: {x: -0.50955117, y: 0.00000040650335, z: 8.6060895e-13}
+      rotation: {x: 0.0019585143, y: -0.007009613, z: -0.017185623, w: 0.99982584}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bone37
+      parentName: Bone33
+      position: {x: -0.49671802, y: 0.0000006532674, z: -2.3646807e-13}
+      rotation: {x: -0.007915416, y: -0.017873963, z: -0.016862728, w: 0.9996667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone11
+      parentName: Bone37
+      position: {x: -0.5076731, y: 0.00000081986065, z: -0.0000001241545}
+      rotation: {x: -0.0000069140365, y: 0.000000037655152, z: -0.005446109, w: 0.99998516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone12
+      parentName: Bone01
+      position: {x: -0.085035704, y: -0.04433319, z: 0.2705801}
+      rotation: {x: -0.0051549, y: -0.0029887853, z: -0.69525737, w: 0.7187362}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Bone13
+      parentName: Bone12
+      position: {x: -0.62415206, y: 0.0000009918213, z: -0.000000019073486}
+      rotation: {x: -0.00000008204132, y: -0.00000015900174, z: -0.4888386, w: 0.87237424}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999999}
+    - name: Bone14
+      parentName: Bone13
+      position: {x: -0.6252114, y: -0.00000015258789, z: 0}
+      rotation: {x: 0.0000007944214, y: 0.00000060240717, z: 0.6042227, w: 0.7968156}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Bone15
+      parentName: Bone14
+      position: {x: -0.4754832, y: -0.00000019073485, z: 0}
+      rotation: {x: -0.0073931324, y: 0.024199197, z: 0.4180229, w: 0.90808403}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bone20
+      parentName: Bone15
+      position: {x: -0.42606986, y: 0.000000093913854, z: 0.00000002059611}
+      rotation: {x: 0.00000082510974, y: -0.0000022726, z: 0.08164749, w: 0.9966613}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone21
+      parentName: Bone01
+      position: {x: -0.08503585, y: -0.04517944, z: -0.27007395}
+      rotation: {x: -0.02785722, y: -0.025332903, z: -0.9976623, w: 0.057028573}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Bone22
+      parentName: Bone21
+      position: {x: -0.624161, y: 0.00000087738033, z: 0.000000019073486}
+      rotation: {x: -0.015449591, y: -0.02774154, z: -0.30391902, w: 0.9521686}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1}
+    - name: Bone23
+      parentName: Bone22
+      position: {x: -0.6244983, y: -0.00000015258789, z: 0.000000019073486}
+      rotation: {x: -0.08092356, y: 0.12380164, z: 0.866357, w: 0.47702214}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone24
+      parentName: Bone23
+      position: {x: -0.47523838, y: -0.00000015258789, z: 0}
+      rotation: {x: -0.0024955112, y: 0.009416096, z: 0.5119225, w: 0.8589765}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Bone25
+      parentName: Bone24
+      position: {x: -0.4260956, y: 0.000000093690865, z: 0.00000002120314}
+      rotation: {x: 0.00000019127886, y: -0.0000024118926, z: 0.07905832, w: 0.99687004}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: IK Chain06
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
